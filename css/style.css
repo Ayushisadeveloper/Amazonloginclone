@@ -1,0 +1,28 @@
+body {
+    background-color: #f0f0f0;
+}
+.login-box {
+    padding: 20px;
+    margin: 10px auto;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+}
+.logo img {
+    width: 130px;
+    margin-top: 15px;
+}
+.new-account button {
+    background-color: grey;
+    border: 1px solid #adb1b8;
+}
+.new-account button:hover {
+    background-color: #d7d9dc;
+}
+
+.terms a{
+    text-decoration: none;
+}
+
+footer li a{
+    text-decoration: none;
+}
